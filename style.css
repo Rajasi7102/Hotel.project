@@ -1,0 +1,20 @@
+.sec1-back-img{
+    height: 500px;
+    background-image: url(https://imgs.search.brave.com/Iz24tjG3Gx1vybNSdH3Uqi1uQre8iH64gJdRf6G9GwY/rs:fit:704:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4t/NHJxMFl4RWdJS1F0/Zmp4ODNlM1FnSGFF/XyZwaWQ9QXBp);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    
+}
+.carousel-item img{
+    width: 10%;
+    height: 200px;
+}
+.cr-img-div
+{
+    width: 300px;
+    box-shadow: 0 5px 12px black;
+    border-radius: 20px;
+
+}
+
